@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FavouritePlacesJavaLab12</string>
+    <string name="google_maps_api_key">AIzaSyCNjf5iNOgb_30GSyjmXTy9rGIlP56Yrcs</string>
+    <string name="title_activity_data_fill_window">DataFillWindow</string>
+</resources>
